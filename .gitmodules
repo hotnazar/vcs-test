@@ -1,0 +1,3 @@
+[submodule "homework/vcs-test"]
+	path = homework/vcs-test
+	url = https://github.com/hotnazar/vcs-test
